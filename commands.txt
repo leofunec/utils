@@ -1,3 +1,3 @@
 git config --global user.name leofunec && git config --global user.email leofunec@gmail.com && git clone https://github.com/leofunec/lab && cd lab && git remote set-url origin https://github.com/leofunec/
 
-git add . && git commit -m "" $$ git push origin
+git add . && git commit -m "" && git push origin
